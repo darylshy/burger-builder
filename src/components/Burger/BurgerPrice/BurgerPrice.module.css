@@ -1,0 +1,13 @@
+.PriceContainer {
+  display: flex;
+  justify-content: center;
+  background: #cf8f2e;
+}
+
+.PriceContainer .Price {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: "Raleway", sans-serif;
+}
